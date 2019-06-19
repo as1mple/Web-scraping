@@ -3,27 +3,32 @@ import csv
 from pprint import pprint
 
 import asyncio
+
+import aiohttp
 from aiohttp import ClientSession
 
 from setting import save_data, setl
 
 CHECKIN, LOS, ID, WAY, Flag = setl()
 url = "https://www.agoda.com/api/en-us/pageparams/property?"
+
+
 async def fetch(CHECKIN, LOS, ID, session):
     async with session.get(url, params={
-             "checkin": CHECKIN,
-             "los": LOS,             "hotel_id": ID,
-             'adults': 2},
-                                timeout=10) as response:
-        response =await response.json()
-
+        "checkin": CHECKIN,
+        "los": LOS, "hotel_id": ID,
+        'adults': 2},
+                           timeout=10) as response:
+        try:
+            response = await response.json()
+        except aiohttp.client_exceptions.ContentTypeError as io:
+            print(io)
+            return 0
         return response
 
+
 async def run():
-
     tasks = []
-
-
 
     # Fetch all responses within one Client session,
     # keep connection alive for all requests.
@@ -37,6 +42,7 @@ async def run():
         # you now have all response bodies in this variable
         pprint(responses)
 
+
 def print_responses(result):
     print(result)
 
@@ -46,6 +52,8 @@ def read_csv():
         dataFromFile = csv.reader(myFile)
         data = (list(dataFromFile))
     return data
+
+
 def condition() -> None:
     global CHECKIN, LOS, ID
     if (WAY == 'not'):
@@ -55,12 +63,15 @@ def condition() -> None:
 
 
 async def add_dict(CHECKIN, LOS, ID, session):
-
     res = {}
     hotel = await fetch(CHECKIN, LOS, ID, session)
-    HOTEL_NAME =  hotel['hotelInfo']['name']
     try:
-     room =  hotel['roomGridData']['masterRooms'][0]
+        HOTEL_NAME = hotel['hotelInfo']['name']
+    except TypeError as io:
+        print(io)
+        return 0
+    try:
+        room = hotel['roomGridData']['masterRooms'][0]
     except KeyError as io:
         print(io)
         return 0
@@ -74,6 +85,3 @@ async def add_dict(CHECKIN, LOS, ID, session):
     save_data(res) if Flag else 0
     print(res)
     return res
-
-
-
