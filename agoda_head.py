@@ -7,11 +7,13 @@ import asyncio
 import aiohttp
 from aiohttp import ClientSession
 
+from logg import get_logger
 from setting import save_data, setl
 
 CHECKIN, LOS, ID, WAY, Flag = setl()
 url = "https://www.agoda.com/api/en-us/pageparams/property?"
 
+Logger = get_logger("Testing")
 
 async def fetch(CHECKIN, LOS, ID, session):
     async with session.get(url, params={
@@ -22,12 +24,13 @@ async def fetch(CHECKIN, LOS, ID, session):
         try:
             response = await response.json()
         except aiohttp.client_exceptions.ContentTypeError as io:
-            print(io)
+            Logger.warn(io)
             return 0
         return response
 
 
 async def run():
+
     tasks = []
 
     # Fetch all responses within one Client session,
@@ -37,14 +40,15 @@ async def run():
             task = asyncio.ensure_future(add_dict(*i, session))
             tasks.append(task)
 
+        Logger.info('T@sk Created')
         responses = asyncio.gather(*tasks)
         await responses
         # you now have all response bodies in this variable
-        pprint(responses)
+        # pprint(responses)
 
 
-def print_responses(result):
-    print(result)
+# def print_responses(result):
+#     print(result)
 
 
 def read_csv():
@@ -68,15 +72,15 @@ async def add_dict(CHECKIN, LOS, ID, session):
     try:
         HOTEL_NAME = hotel['hotelInfo']['name']
     except TypeError as io:
-        print(io)
+        Logger.warn(io)
         return 0
     try:
         room = hotel['roomGridData']['masterRooms'][0]
     except KeyError as io:
-        print(io)
+        Logger.warn(io)
         return 0
     except IndexError as io:
-        print(io)
+        Logger.warn(io)
         return 0
 
     res.update(

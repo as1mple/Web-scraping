@@ -1,13 +1,10 @@
 import json
-import logging
+
 import os
-import sys
-from logging.handlers import TimedRotatingFileHandler
 
 import argparse
 
-FORMATTER = logging.Formatter("%(asctime)s — %(name)s — %(levelname)s — %(message)s")
-LOG_FILE = "n.log"
+
 def setl():
     parser = argparse.ArgumentParser(description='Test')
     parser.add_argument('-ch', '--CHECKIN', type=str, help='input', default='2020-09-13')

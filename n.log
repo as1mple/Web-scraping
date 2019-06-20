@@ -1,0 +1,23 @@
+2019-06-20 09:07:27,253 — Testing — INFO — T@sk Created
+2019-06-20 09:11:18,697 — Testing — INFO — T@sk Created
+2019-06-20 09:11:20,925 — Testing — INFO — T@sk Created
+2019-06-20 09:11:29,514 — Testing — INFO — T@sk Created
+2019-06-20 09:11:40,685 — Testing — INFO — T@sk Created
+2019-06-20 09:13:11,593 — Testing — INFO — T@sk Created
+2019-06-20 09:13:12,258 — Testing — WARNING — 0, message='Attempt to decode JSON with unexpected mimetype: '
+2019-06-20 09:13:12,258 — Testing — WARNING — 'int' object is not subscriptable
+2019-06-20 09:13:12,768 — Testing — WARNING — 'masterRooms'
+2019-06-20 09:13:12,797 — Testing — WARNING — list index out of range
+2019-06-20 09:13:12,854 — Testing — WARNING — list index out of range
+2019-06-20 09:13:12,868 — Testing — WARNING — list index out of range
+2019-06-20 09:13:12,906 — Testing — WARNING — list index out of range
+2019-06-20 09:13:12,990 — Testing — WARNING — 'masterRooms'
+2019-06-20 09:13:12,992 — Testing — WARNING — list index out of range
+2019-06-20 09:13:13,057 — Testing — WARNING — list index out of range
+2019-06-20 09:13:13,189 — Testing — WARNING — list index out of range
+2019-06-20 09:13:13,255 — Testing — WARNING — 'masterRooms'
+2019-06-20 09:13:13,262 — Testing — WARNING — list index out of range
+2019-06-20 09:13:13,338 — Testing — WARNING — 'masterRooms'
+2019-06-20 09:13:13,549 — Testing — WARNING — list index out of range
+2019-06-20 09:13:13,627 — Testing — WARNING — list index out of range
+2019-06-20 09:13:14,295 — Testing — WARNING — 'masterRooms'
