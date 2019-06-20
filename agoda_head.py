@@ -1,7 +1,4 @@
 import csv
-
-from pprint import pprint
-
 import asyncio
 
 import aiohttp
@@ -11,12 +8,12 @@ from logg import get_logger
 from setting import save_data, setl
 
 CHECKIN, LOS, ID, WAY, Flag = setl()
-url = "https://www.agoda.com/api/en-us/pageparams/property?"
-
+URL = "https://www.agoda.com/api/en-us/pageparams/property?"
 Logger = get_logger("Testing")
 
+
 async def fetch(CHECKIN, LOS, ID, session):
-    async with session.get(url, params={
+    async with session.get(URL, params={
         "checkin": CHECKIN,
         "los": LOS, "hotel_id": ID,
         'adults': 2},
@@ -30,7 +27,6 @@ async def fetch(CHECKIN, LOS, ID, session):
 
 
 async def run():
-
     tasks = []
 
     # Fetch all responses within one Client session,
@@ -87,5 +83,5 @@ async def add_dict(CHECKIN, LOS, ID, session):
         {'id': room['id'], 'name': room['name'], 'price': room['rooms'][0]['price'],
          'CHECKIN': CHECKIN, 'LOS': LOS, 'ID': ID, 'HOTEL': HOTEL_NAME})
     save_data(res) if Flag else 0
-    print(res)
+    Logger.info(res)
     return res
