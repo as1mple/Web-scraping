@@ -1,1 +1,5098 @@
-[]
+[
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 562.38,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 73.17,
+            "crossedOut": 76.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 73.17,
+            "crossedOut": 76.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 73.17,
+            "crossedOut": 76.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 73.17,
+            "crossedOut": 76.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 73.17,
+            "crossedOut": 76.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.71,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.71,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 475.62,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 371.35,
+            "crossedOut": 537.59,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 212.65,
+            "crossedOut": 246.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 562.38,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 562.38,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.71,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 562.38,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 562.38,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.25,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.18,
+            "crossedOut": 562.38,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.06,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.36,
+            "crossedOut": 334.72,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.71,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.93,
+            "crossedOut": 576.87,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 73.17,
+            "crossedOut": 76.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.83,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.83,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.83,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.83,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 563.46,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 563.46,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.83,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 563.46,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 563.46,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 563.46,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 5983760,
+        "name": "Standard Room",
+        "price": {
+            "display": 476.54,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1939",
+        "HOTEL": "Bilderberg Hotel Jan Luyken"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.26,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.06,
+            "crossedOut": 538.62,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 73460274,
+        "name": "Deluxe Non Refundable",
+        "price": {
+            "display": 72.88,
+            "crossedOut": 76.31,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.52,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 213.05,
+            "crossedOut": 247.11,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.68,
+            "crossedOut": 335.37,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.42,
+            "crossedOut": 268.57,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 119.12,
+            "crossedOut": 577.84,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 20915483,
+        "name": "Standard 2 Doubles",
+        "price": {
+            "display": 218.36,
+            "crossedOut": 363.51,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe Suite",
+        "price": {
+            "display": 78.48,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.39,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe Suite",
+        "price": {
+            "display": 78.48,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.89,
+            "crossedOut": 335.78,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe Suite",
+        "price": {
+            "display": 78.48,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe ",
+        "price": {
+            "display": 78.48,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.39,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 181.32,
+            "crossedOut": 240.36,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.89,
+            "crossedOut": 335.78,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.53,
+            "crossedOut": 539.29,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.39,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.89,
+            "crossedOut": 335.78,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.89,
+            "crossedOut": 335.78,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.53,
+            "crossedOut": 539.29,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.39,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.53,
+            "crossedOut": 539.29,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3967438,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 102.39,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1953",
+        "HOTEL": "Wyndham Stralsund HanseDom"
+    },
+    {
+        "id": 3635095,
+        "name": "Double or Twin",
+        "price": {
+            "display": 167.89,
+            "crossedOut": 335.78,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1955",
+        "HOTEL": "HCC Regente Hotel"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 181.32,
+            "crossedOut": 240.36,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.58,
+            "crossedOut": 564.16,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 181.32,
+            "crossedOut": 240.36,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.58,
+            "crossedOut": 564.16,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 181.32,
+            "crossedOut": 240.36,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.7,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.7,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.7,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.58,
+            "crossedOut": 564.16,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 11143079,
+        "name": "Deluxe Double Room",
+        "price": {
+            "display": 181.32,
+            "crossedOut": 240.36,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2020-09-13",
+        "LOS": "1",
+        "ID": "550",
+        "HOTEL": "Corinthia Hotel Lisbon"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.53,
+            "crossedOut": 539.29,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3967436,
+        "name": "Deluxe Suite",
+        "price": {
+            "display": 78.48,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1917",
+        "HOTEL": "Hotel Geneve"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.7,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.58,
+            "crossedOut": 564.16,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3546643,
+        "name": "Standard Double Room",
+        "price": {
+            "display": 143.7,
+            "crossedOut": 0.0,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1931",
+        "HOTEL": "Steigenberger Conti Hansa Hotel"
+    },
+    {
+        "id": 3082371,
+        "name": "Standard Cool",
+        "price": {
+            "display": 128.58,
+            "crossedOut": 564.16,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1962",
+        "HOTEL": "Hotel Internacional Ramblas Cool"
+    },
+    {
+        "id": 3527906,
+        "name": "Bungalow with Garden View",
+        "price": {
+            "display": 372.53,
+            "crossedOut": 539.29,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1214",
+        "HOTEL": "La Plage Resort"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.25,
+            "crossedOut": 586.71,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.25,
+            "crossedOut": 586.71,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.25,
+            "crossedOut": 586.71,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.25,
+            "crossedOut": 586.71,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 3022556,
+        "name": "Twin Room",
+        "price": {
+            "display": 118.25,
+            "crossedOut": 586.71,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1928",
+        "HOTEL": "Best Western Hotel Bristol"
+    },
+    {
+        "id": 15424342,
+        "name": "Standard with Two Double Beds",
+        "price": {
+            "display": 229.0,
+            "crossedOut": 407.99,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 15424342,
+        "name": "Standard with Two Double Beds",
+        "price": {
+            "display": 229.0,
+            "crossedOut": 407.99,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 15424342,
+        "name": "Standard with Two Double Beds",
+        "price": {
+            "display": 229.0,
+            "crossedOut": 407.99,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    },
+    {
+        "id": 15424342,
+        "name": "Standard with Two Double Beds",
+        "price": {
+            "display": 229.0,
+            "crossedOut": 407.99,
+            "extraBed": 0.0,
+            "couponCrossedOut": 0.0
+        },
+        "CHECKIN": "2019-09-13",
+        "LOS": "1",
+        "ID": "1914",
+        "HOTEL": "Outrigger Reef Waikiki Beach Resort"
+    }
+]

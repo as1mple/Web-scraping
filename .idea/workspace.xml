@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ff3d658-71e7-41cf-bcb8-8ca537e419fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agoda_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/agoda_head.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logg.py" beforeDir="false" afterPath="$PROJECT_DIR$/logg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/res.json" beforeDir="false" afterPath="$PROJECT_DIR$/res.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +19,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/requirements.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="14" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
+                <state relative-caret-position="189">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
                 </state>
               </provider>
             </entry>
@@ -32,7 +29,7 @@
             <entry file="file://$PROJECT_DIR$/res.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state>
-                  <caret column="2" selection-start-column="2" selection-end-column="2" />
+                  <caret column="1" selection-start-column="1" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -40,17 +37,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/agoda_head.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="10" selection-start-column="10" selection-end-column="10" />
+                <state relative-caret-position="21">
+                  <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+                <state relative-caret-position="42">
+                  <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
                   <folding>
                     <element signature="e#0#14#0" expanded="true" />
                   </folding>
@@ -64,8 +61,17 @@
                 <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
               </provider>
               <provider selected="true" editor-type-id="csv-text-editor">
-                <state relative-caret-position="1470">
-                  <caret line="70" selection-start-line="70" selection-end-line="70" />
+                <state relative-caret-position="252">
+                  <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="5" selection-start-column="5" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -74,22 +80,19 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/agoda_head.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="173">
-                  <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#0#10#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="357">
+                  <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/logg.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
+                <state relative-caret-position="357">
                   <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
                   <folding>
                     <element signature="e#0#14#0" expanded="true" />
@@ -116,17 +119,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/arg.csv" />
         <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/setting.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/agoda_head.py" />
         <option value="$PROJECT_DIR$/res.json" />
         <option value="$PROJECT_DIR$/logg.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/arg.csv" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="993" />
     <option name="y" value="27" />
     <option name="width" value="927" />
@@ -138,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,11 +153,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scraping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -258,12 +262,12 @@
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12076503" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12076503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,16 +281,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="181" height="853" id="Documentation" order="3" side_tool="true" weight="0.3291714" />
     </layout>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/agoda_head.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///usr/lib/python3.6/asyncio/tasks.py">
@@ -304,10 +298,48 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp.py" />
+    <entry file="file://$PROJECT_DIR$/n.log" />
+    <entry file="file://$PROJECT_DIR$/debag.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-line="5" selection-end-column="15" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agoda_head.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -316,55 +348,15 @@
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="1470">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="252">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/agoda_head.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/n.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="273">
-          <caret line="52" column="17" lean-forward="true" selection-end-line="221" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-489" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

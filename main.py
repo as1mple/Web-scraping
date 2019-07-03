@@ -2,7 +2,6 @@ import asyncio
 import time
 
 from agoda_head import run
-from logg import get_logger
 
 if __name__ == '__main__':
 
