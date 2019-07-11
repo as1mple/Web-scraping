@@ -7,21 +7,17 @@ import argparse
 
 def setl():
     parser = argparse.ArgumentParser(description='Test')
-    parser.add_argument('-ch', '--CHECKIN', type=str, help='input', default='2020-09-13')
-    parser.add_argument('-l', '--LOS', type=str, help='count', default='1')
-    parser.add_argument('-id', '--ID', type=str, help='id', default='550')
-    parser.add_argument('-csEVEv', '--File', type=str, help='with file', default='arg.csv')
-    parser.add_argument('-flag', '--Flag', type=bool, default=True)
+    parser.add_argument( '--checkin', type=str, default='2020-09-13')
+    parser.add_argument('--los', type=str, default='1')
+    parser.add_argument('--id', type=str, default='550')
+    parser.add_argument('--file', type=str, default='arg.csv')
+    parser.add_argument('--flag', type=bool, default=True)
 
     args = parser.parse_args()
 
-    checkin = args.CHECKIN
-    los = args.LOS
-    id = args.ID
-    way = args.File
-    flag = args.Flag
 
-    return [checkin, los, id, way, flag]
+
+    return [args.checkin, args.los, args.id, args.file, args.flag]
 
 def save_data(room: dict, JSON_PATH  = 'res.json') -> None:
     if not os.path.isfile(JSON_PATH):

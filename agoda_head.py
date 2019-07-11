@@ -39,7 +39,7 @@ async def run():
         Logger.info('T@sk Created')
         responses = asyncio.gather(*tasks)
         await responses
-        # you now have all response bodies in this variable
+        # you            now have all response bodies in this variable
         # pprint(responses)
 
 
